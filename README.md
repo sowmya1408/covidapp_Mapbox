@@ -1,5 +1,5 @@
 
-Here is the link to view app: 
+Here is the link to view app: [https://covidapp-data.herokuapp.com/]
 
 Wanted to work and learn mapbox and to visualise the data with it.
 
