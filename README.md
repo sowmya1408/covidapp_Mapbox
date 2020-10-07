@@ -8,8 +8,6 @@ React - for the collecting data and visualise it.
 Mapbox - for the Map frame.
 deployment: Heroku
 
-
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
