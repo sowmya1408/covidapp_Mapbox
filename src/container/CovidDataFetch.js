@@ -6,7 +6,7 @@ const CovidDataFetch = () => {
   const [viewport, setViewport] = useState({
     width: "100vw",
     height: "100vh",
-    zoom: 7,
+    zoom: 4,
     latitude: 56,
     longitude: 10,
   });
